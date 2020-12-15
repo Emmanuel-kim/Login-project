@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: #64B5F6;
+}
+img{
+    margin-top: 4%;
+    border-radius: 60%;
+    width: 15%;
+    height: 30%;
+}
+
+#uname, #pass, #Fname, #Lname, #email, #conf{
+    margin-top: 10px;
+    border-radius: 1px;
+    border-color: darkslategrey;
+    width: 30%;
+    height: 20px;
+    background-color: #E8EAF6;
+}
+
+#login, #regist{
+    border-radius: 1px;
+    border-color: #42A5F5;
+    width: 30%;
+    height: 30px;
+    font-weight: normal;
+    font-size: 130%;
+    background-color: #1565C0;
+    color: white;
+}
+
+#forgot, #register, #acc{
+    font-style: italic;
+    font-size: 8px;
+}

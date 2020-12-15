@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-image: url(bac2.jpeg);
+    background-position: center;
+    position: relative;
+    background-size: cover;
+}
+
+img{
+    margin-top: 4%;
+    border-radius: 60%;
+    width: 15%;
+    height: 30%;
+}
+#login{
+    border-radius: 1px;
+    border-color: #42A5F5;
+    width: 20%;
+    height: 30px;
+    font-weight: normal;
+    font-size: 130%;
+    background-color: dimgrey;
+    color: white;
+}

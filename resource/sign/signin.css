@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: #FFCC80;
+}
+
+#username, #password, #inputfield{
+    margin-top: 10px;
+    border-radius: 6px;
+    border-color: darkslategrey;
+    width: 30%;
+    height: 20px;
+    background-color: #E8EAF6;
+}
+#sign, #signupbtn{
+    border-radius: 6px;
+    border-color: #FFD180;
+    width: 30%;
+    height: 30px;
+    font-weight: normal;
+    font-size: 130%;
+    background-color: #FF9800;
+    color: black;
+}
+img{
+    margin-top: 4%;
+    border-radius: 60%;
+    width: 15%;
+    height: 30%;
+}
+#forgot, #signup, #signin, p{
+    font-style: italic;
+    font-size: 8px;
+}
+h3{
+    font-size:15px ;
+}
